@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mmmayen-pf
 - 👀 I’m interested in Data and programming 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently a Data Analyst 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me email:
 - print(mmayenejiasa@gmail.com)
